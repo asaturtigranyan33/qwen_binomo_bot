@@ -6,8 +6,8 @@ from telegram import Bot
 from telegram.error import TelegramError
 
 # ========== ՁԵՐ Config  Parametres ==========
-TELEGRAM_BOT_TOKEN = "8438864481:AAFOZFAZq1KqiVdU-rE3SxMrlCvNaHaf79A"  # Ձեր Telegram Bot Token
-TELEGRAM_CHAT_ID = "903610526"              # Ձեր Telegram Chat ID
+TELEGRAM_BOT_TOKEN = ""  # Ձեր Telegram Bot Token
+TELEGRAM_CHAT_ID = ""              # Ձեր Telegram Chat ID
 SYMBOL = "ETH/USDT"
 TIMEFRAME = "15m"
 EXCHANGE_NAME = "binance"  # Օգտագործում ենք Binance-ի տվյալները, որպեսզի համապատասխանի Binomo-ին
